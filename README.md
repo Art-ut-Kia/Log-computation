@@ -8,4 +8,4 @@ This project is a C function that operates on a float type (single precision) an
 The computation is based on the development in series of the ArcTanH function.
 Reference : [wikipedia](https://en.wikipedia.org/wiki/Logarithm#Power_series)
 
-Furthermore it computes separatly the log of exponent and mantissa to bound the error in +/- 10^-9, i.e. at a levl lower than float quantification error.
+Furthermore it computes separatly the log of exponent and mantissa to bound the error in +/- 10^-9, i.e. at a level lower than float quantification error.
