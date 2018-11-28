@@ -1,5 +1,5 @@
 # Log-computation
-Neperian logarithm computation for compilers that doesn't implement it
+Neperian logarithm computation for compilers that don't implement it
 
 The microtec C compiler for 68040 doesn't implement the natural logarithm fonction.
 
